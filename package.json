@@ -37,7 +37,7 @@
         "jshint": "~0.5.9",
         "mbtiles": "~0.2.0",
         "tilejson": "~0.1.0",
-        "tilelive-mapnik": "~0.3.0"
+        "tilelive-mapnik": "https://github.com/zhm/tilelive-mapnik/tarball/node-0.6-cartodb"
     },
     "bin": {
         "tilelive": "./bin/tilelive"
